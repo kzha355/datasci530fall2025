@@ -1,7 +1,7 @@
 {
     "meta": {
-        "count": 198481,
-        "db_response_time_ms": 305,
+        "count": 198258,
+        "db_response_time_ms": 582,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -12,7 +12,7 @@
             "doi": "https://doi.org/10.5860/choice.33-1577",
             "title": "Artificial intelligence: a modern approach",
             "display_name": "Artificial intelligence: a modern approach",
-            "relevance_score": 8908.51,
+            "relevance_score": 8915.709,
             "publication_year": 1995,
             "publication_date": "1995-11-01",
             "ids": {
@@ -803,7 +803,7 @@
             "doi": "https://doi.org/10.1016/0004-3702(96)00007-0",
             "title": "Artificial intelligence: A modern approach",
             "display_name": "Artificial intelligence: A modern approach",
-            "relevance_score": 6091.7544,
+            "relevance_score": 6101.0596,
             "publication_year": 1996,
             "publication_date": "1996-04-01",
             "ids": {
@@ -887,7 +887,7 @@
             "fwci": 35.734,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
-            "cited_by_count": 10822,
+            "cited_by_count": 10824,
             "citation_normalized_percentile": {
                 "value": 0.98873,
                 "is_in_top_1_percent": false,
@@ -1105,16 +1105,12 @@
             "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2623293810",
             "counts_by_year": [
                 {
-                    "year": 2025,
-                    "cited_by_count": 1
-                },
-                {
                     "year": 2024,
                     "cited_by_count": 879
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 1140
+                    "cited_by_count": 1141
                 },
                 {
                     "year": 2022,
@@ -1122,7 +1118,7 @@
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 856
+                    "cited_by_count": 859
                 },
                 {
                     "year": 2020,
@@ -1134,7 +1130,7 @@
                 },
                 {
                     "year": 2018,
-                    "cited_by_count": 539
+                    "cited_by_count": 540
                 },
                 {
                     "year": 2017,
@@ -1161,7 +1157,7 @@
                     "cited_by_count": 305
                 }
             ],
-            "updated_date": "2025-09-30T01:58:32.806168",
+            "updated_date": "2025-09-20T18:27:01.628519",
             "created_date": "2017-06-15"
         },
         {
@@ -1169,7 +1165,7 @@
             "doi": null,
             "title": "Lecture Notes in Artificial Intelligence",
             "display_name": "Lecture Notes in Artificial Intelligence",
-            "relevance_score": 5071.7817,
+            "relevance_score": 5072.7305,
             "publication_year": 1999,
             "publication_date": "1999-01-01",
             "ids": {
@@ -1381,7 +1377,7 @@
             "doi": "https://doi.org/10.1007/978-3-662-09438-9",
             "title": "Principles of Artificial Intelligence",
             "display_name": "Principles of Artificial Intelligence",
-            "relevance_score": 3537.6401,
+            "relevance_score": 3537.994,
             "publication_year": 1982,
             "publication_date": "1982-01-01",
             "ids": {
@@ -1622,8 +1618,8 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.78,
+                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education"
                 }
             ],
@@ -1712,7 +1708,7 @@
             "doi": null,
             "title": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
             "display_name": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
-            "relevance_score": 3428.416,
+            "relevance_score": 3428.9316,
             "publication_year": 2005,
             "publication_date": "2005-01-01",
             "ids": {
@@ -2001,7 +1997,7 @@
             "doi": "https://doi.org/10.1038/s41591-018-0300-7",
             "title": "High-performance medicine: the convergence of human and artificial intelligence",
             "display_name": "High-performance medicine: the convergence of human and artificial intelligence",
-            "relevance_score": 3364.82,
+            "relevance_score": 3365.0537,
             "publication_year": 2018,
             "publication_date": "2018-12-28",
             "ids": {
@@ -2477,8 +2473,8 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/8",
                     "score": 0.65,
+                    "id": "https://metadata.un.org/sdg/8",
                     "display_name": "Decent work and economic growth"
                 }
             ],
@@ -2724,7 +2720,7 @@
             "doi": "https://doi.org/10.1016/0305-0548(86)90048-1",
             "title": "Future paths for integer programming and links to artificial intelligence",
             "display_name": "Future paths for integer programming and links to artificial intelligence",
-            "relevance_score": 3083.6697,
+            "relevance_score": 3084.2666,
             "publication_year": 1986,
             "publication_date": "1986-01-01",
             "ids": {
@@ -3145,8 +3141,8 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/9",
                     "score": 0.46,
+                    "id": "https://metadata.un.org/sdg/9",
                     "display_name": "Industry, innovation and infrastructure"
                 }
             ],
@@ -3329,7 +3325,7 @@
             "doi": "https://doi.org/10.1038/s41568-018-0016-5",
             "title": "Artificial intelligence in radiology",
             "display_name": "Artificial intelligence in radiology",
-            "relevance_score": 3030.2134,
+            "relevance_score": 3031.1726,
             "publication_year": 2018,
             "publication_date": "2018-05-17",
             "ids": {
@@ -4275,7 +4271,7 @@
             "doi": "https://doi.org/10.1136/svn-2017-000101",
             "title": "Artificial intelligence in healthcare: past, present and future",
             "display_name": "Artificial intelligence in healthcare: past, present and future",
-            "relevance_score": 2986.94,
+            "relevance_score": 2987.3547,
             "publication_year": 2017,
             "publication_date": "2017-06-21",
             "ids": {
@@ -5853,7 +5849,7 @@
             "doi": "https://doi.org/10.1016/j.inffus.2019.12.012",
             "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
             "display_name": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
-            "relevance_score": 2937.4082,
+            "relevance_score": 2938.859,
             "publication_year": 2019,
             "publication_date": "2019-12-26",
             "ids": {
@@ -6738,8 +6734,8 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/17",
                     "score": 0.42,
+                    "id": "https://metadata.un.org/sdg/17",
                     "display_name": "Partnerships for the goals"
                 }
             ],
@@ -7351,7 +7347,7 @@
             "doi": null,
             "title": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
             "display_name": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
-            "relevance_score": 2922.0813,
+            "relevance_score": 2922.3765,
             "publication_year": 2000,
             "publication_date": "2000-07-31",
             "ids": {
@@ -7897,7 +7893,7 @@
             "doi": "https://doi.org/10.1016/j.artint.2018.07.007",
             "title": "Explanation in artificial intelligence: Insights from the social sciences",
             "display_name": "Explanation in artificial intelligence: Insights from the social sciences",
-            "relevance_score": 2824.2566,
+            "relevance_score": 2823.8352,
             "publication_year": 2018,
             "publication_date": "2018-10-27",
             "ids": {
@@ -8612,7 +8608,7 @@
             "doi": "https://doi.org/10.1177/1094670517752459",
             "title": "Artificial Intelligence in Service",
             "display_name": "Artificial Intelligence in Service",
-            "relevance_score": 2816.3604,
+            "relevance_score": 2817.8313,
             "publication_year": 2018,
             "publication_date": "2018-02-05",
             "ids": {
@@ -8994,8 +8990,8 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/8",
                     "score": 0.57,
+                    "id": "https://metadata.un.org/sdg/8",
                     "display_name": "Decent work and economic growth"
                 }
             ],
@@ -9643,7 +9639,7 @@
             "doi": null,
             "title": "Artificial Intelligence through Simulated Evolution",
             "display_name": "Artificial Intelligence through Simulated Evolution",
-            "relevance_score": 2813.9307,
+            "relevance_score": 2813.5134,
             "publication_year": 1966,
             "publication_date": "1966-01-01",
             "ids": {
@@ -9724,7 +9720,7 @@
             "apc_paid": null,
             "fwci": 6.478,
             "has_fulltext": false,
-            "cited_by_count": 2860,
+            "cited_by_count": 2858,
             "citation_normalized_percentile": {
                 "value": 0.986577,
                 "is_in_top_1_percent": false,
@@ -9861,7 +9857,7 @@
             "counts_by_year": [
                 {
                     "year": 2025,
-                    "cited_by_count": 9
+                    "cited_by_count": 7
                 },
                 {
                     "year": 2024,
@@ -9885,7 +9881,7 @@
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 63
+                    "cited_by_count": 62
                 },
                 {
                     "year": 2018,
@@ -9916,7 +9912,7 @@
                     "cited_by_count": 132
                 }
             ],
-            "updated_date": "2025-09-30T08:05:08.101259",
+            "updated_date": "2025-09-11T17:45:03.241106",
             "created_date": "2021-04-13"
         },
         {
@@ -9924,7 +9920,7 @@
             "doi": "https://doi.org/10.1016/b978-0-934613-03-3.50033-7",
             "title": "Some Philosophical Problems from the Standpoint of Artificial Intelligence",
             "display_name": "Some Philosophical Problems from the Standpoint of Artificial Intelligence",
-            "relevance_score": 2798.795,
+            "relevance_score": 2799.3975,
             "publication_year": 1981,
             "publication_date": "1981-01-01",
             "ids": {
@@ -10298,8 +10294,8 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.43,
+                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education"
                 }
             ],
@@ -10445,7 +10441,7 @@
             "doi": "https://doi.org/10.1109/access.2018.2870052",
             "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
             "display_name": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-            "relevance_score": 2793.3413,
+            "relevance_score": 2793.4048,
             "publication_year": 2018,
             "publication_date": "2018-01-01",
             "ids": {
@@ -11556,11 +11552,608 @@
             "created_date": "2018-09-27"
         },
         {
+            "id": "https://openalex.org/W1964839117",
+            "doi": null,
+            "title": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
+            "display_name": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
+            "relevance_score": 2681.208,
+            "publication_year": 1999,
+            "publication_date": "1999-02-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1964839117",
+                "mag": "1964839117"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://ci.nii.ac.jp/ncid/BA41830079",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book",
+            "type_crossref": "book",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5079606822",
+                        "display_name": "Jacques Ferber",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jacques Ferber",
+                    "raw_affiliation_strings": [
+                        "Syst\u00e8me Multi-agent, Interaction, Langage, Evolution"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Syst\u00e8me Multi-agent, Interaction, Langage, Evolution",
+                            "institution_ids": []
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5079606822"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 37.319,
+            "has_fulltext": false,
+            "cited_by_count": 2699,
+            "citation_normalized_percentile": {
+                "value": 0.99784,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 99,
+                "max": 100
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12203",
+                "display_name": "Mobile Agent-Based Network Management",
+                "score": 0.2947,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12203",
+                    "display_name": "Mobile Agent-Based Network Management",
+                    "score": 0.2947,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10456",
+                    "display_name": "Multi-Agent Systems and Negotiation",
+                    "score": 0.2607,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12288",
+                    "display_name": "Optimization and Search Problems",
+                    "score": 0.2559,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6063712
+                },
+                {
+                    "id": "https://openalex.org/C9652623",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
+                    "display_name": "Field (mathematics)",
+                    "level": 2,
+                    "score": 0.5912619
+                },
+                {
+                    "id": "https://openalex.org/C26517878",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228039",
+                    "display_name": "Key (lock)",
+                    "level": 2,
+                    "score": 0.5704737
+                },
+                {
+                    "id": "https://openalex.org/C2164484",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+                    "display_name": "Core (optical fiber)",
+                    "level": 2,
+                    "score": 0.42682454
+                },
+                {
+                    "id": "https://openalex.org/C2522767166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+                    "display_name": "Data science",
+                    "level": 1,
+                    "score": 0.3699813
+                },
+                {
+                    "id": "https://openalex.org/C539667460",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+                    "display_name": "Management science",
+                    "level": 1,
+                    "score": 0.35746503
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.32139802
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.29004973
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.09383279
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.060086638
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://ci.nii.ac.jp/ncid/BA41830079",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "score": 0.64,
+                    "id": "https://metadata.un.org/sdg/4",
+                    "display_name": "Quality education"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W2615688110",
+                "https://openalex.org/W2155272711",
+                "https://openalex.org/W2151408086",
+                "https://openalex.org/W2145790759",
+                "https://openalex.org/W2130766754",
+                "https://openalex.org/W2128672031",
+                "https://openalex.org/W2126554879",
+                "https://openalex.org/W2124344619",
+                "https://openalex.org/W2122410182",
+                "https://openalex.org/W2121863487",
+                "https://openalex.org/W2111877087",
+                "https://openalex.org/W2102360367",
+                "https://openalex.org/W2096178388",
+                "https://openalex.org/W2077686680",
+                "https://openalex.org/W1975348168",
+                "https://openalex.org/W1904065432",
+                "https://openalex.org/W1587442892",
+                "https://openalex.org/W1586030051",
+                "https://openalex.org/W1564534945",
+                "https://openalex.org/W1497256448"
+            ],
+            "abstract_inverted_index": {
+                "From": [
+                    0
+                ],
+                "the": [
+                    1,
+                    19,
+                    32,
+                    49,
+                    78,
+                    82,
+                    86,
+                    93
+                ],
+                "Publisher:\r\nWhat": [
+                    2
+                ],
+                "are": [
+                    3,
+                    16
+                ],
+                "multi-agent": [
+                    4,
+                    41
+                ],
+                "systems?": [
+                    5
+                ],
+                "How": [
+                    6
+                ],
+                "do": [
+                    7,
+                    11
+                ],
+                "they": [
+                    8,
+                    12
+                ],
+                "work?": [
+                    9
+                ],
+                "What": [
+                    10
+                ],
+                "do?": [
+                    13
+                ],
+                "If": [
+                    14
+                ],
+                "you": [
+                    15
+                ],
+                "looking": [
+                    17
+                ],
+                "for": [
+                    18,
+                    26,
+                    92
+                ],
+                "answers": [
+                    20
+                ],
+                "to": [
+                    21,
+                    34,
+                    54,
+                    64,
+                    88
+                ],
+                "these": [
+                    22
+                ],
+                "questions,": [
+                    23
+                ],
+                "read": [
+                    24
+                ],
+                "on;": [
+                    25
+                ],
+                "Jacques": [
+                    27
+                ],
+                "Ferber's": [
+                    28
+                ],
+                "authoritative": [
+                    29
+                ],
+                "book": [
+                    30
+                ],
+                "is": [
+                    31
+                ],
+                "first": [
+                    33
+                ],
+                "provide": [
+                    35
+                ],
+                "a": [
+                    36,
+                    66
+                ],
+                "single,": [
+                    37
+                ],
+                "coherent": [
+                    38
+                ],
+                "overview": [
+                    39
+                ],
+                "of": [
+                    40,
+                    70
+                ],
+                "systems.": [
+                    42
+                ],
+                "Introduces": [
+                    43
+                ],
+                "and": [
+                    44,
+                    75,
+                    84
+                ],
+                "defines": [
+                    45
+                ],
+                "key": [
+                    46
+                ],
+                "concepts": [
+                    47
+                ],
+                "throughout": [
+                    48
+                ],
+                "text;": [
+                    50
+                ],
+                "provides": [
+                    51
+                ],
+                "numerous": [
+                    52
+                ],
+                "examples": [
+                    53
+                ],
+                "illustrate": [
+                    55
+                ],
+                "core": [
+                    56
+                ],
+                "principles;": [
+                    57
+                ],
+                "draws": [
+                    58
+                ],
+                "on": [
+                    59,
+                    90
+                ],
+                "contributions": [
+                    60
+                ],
+                "from": [
+                    61
+                ],
+                "different": [
+                    62
+                ],
+                "disciplines": [
+                    63
+                ],
+                "present": [
+                    65
+                ],
+                "holistic,": [
+                    67
+                ],
+                "comprehensive": [
+                    68
+                ],
+                "picture": [
+                    69
+                ],
+                "state-of-the": [
+                    71
+                ],
+                "art": [
+                    72
+                ],
+                "agent": [
+                    73
+                ],
+                "technology;": [
+                    74
+                ],
+                "describes": [
+                    76
+                ],
+                "all": [
+                    77
+                ],
+                "latest": [
+                    79
+                ],
+                "developments": [
+                    80
+                ],
+                "in": [
+                    81
+                ],
+                "field": [
+                    83
+                ],
+                "encourages": [
+                    85
+                ],
+                "reader": [
+                    87
+                ],
+                "reflect": [
+                    89
+                ],
+                "possibilities": [
+                    91
+                ],
+                "future.": [
+                    94
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1964839117",
+            "counts_by_year": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 11
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 27
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 37
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 29
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 47
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 61
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 84
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 78
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 72
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 97
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 120
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 119
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 122
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 130
+                }
+            ],
+            "updated_date": "2025-09-19T15:47:47.375722",
+            "created_date": "2016-06-24"
+        },
+        {
             "id": "https://openalex.org/W1596324102",
             "doi": null,
             "title": "Machine Learning: An Artificial Intelligence Approach",
             "display_name": "Machine Learning: An Artificial Intelligence Approach",
-            "relevance_score": 2681.0876,
+            "relevance_score": 2680.546,
             "publication_year": 2013,
             "publication_date": "2013-10-03",
             "ids": {
@@ -11659,7 +12252,7 @@
             "apc_paid": null,
             "fwci": 26.238,
             "has_fulltext": false,
-            "cited_by_count": 2608,
+            "cited_by_count": 2607,
             "citation_normalized_percentile": null,
             "cited_by_percentile_year": {
                 "min": 99,
@@ -11847,7 +12440,7 @@
             "counts_by_year": [
                 {
                     "year": 2025,
-                    "cited_by_count": 10
+                    "cited_by_count": 5
                 },
                 {
                     "year": 2024,
@@ -11902,7 +12495,7 @@
                     "cited_by_count": 33
                 }
             ],
-            "updated_date": "2025-09-30T07:43:35.502159",
+            "updated_date": "2025-09-20T23:32:36.526220",
             "created_date": "2016-06-24"
         },
         {
@@ -11910,7 +12503,7 @@
             "doi": "https://doi.org/10.7861/futurehosp.6-2-94",
             "title": "The potential for artificial intelligence in healthcare",
             "display_name": "The potential for artificial intelligence in healthcare",
-            "relevance_score": 2677.209,
+            "relevance_score": 2677.5642,
             "publication_year": 2019,
             "publication_date": "2019-06-01",
             "ids": {
@@ -12775,608 +13368,11 @@
             "created_date": "2019-07-12"
         },
         {
-            "id": "https://openalex.org/W1964839117",
-            "doi": null,
-            "title": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
-            "display_name": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
-            "relevance_score": 2676.874,
-            "publication_year": 1999,
-            "publication_date": "1999-02-01",
-            "ids": {
-                "openalex": "https://openalex.org/W1964839117",
-                "mag": "1964839117"
-            },
-            "language": "en",
-            "primary_location": {
-                "is_oa": false,
-                "landing_page_url": "https://ci.nii.ac.jp/ncid/BA41830079",
-                "pdf_url": null,
-                "source": null,
-                "license": null,
-                "license_id": null,
-                "version": null,
-                "is_accepted": false,
-                "is_published": false
-            },
-            "type": "book",
-            "type_crossref": "book",
-            "indexed_in": [],
-            "open_access": {
-                "is_oa": false,
-                "oa_status": "closed",
-                "oa_url": null,
-                "any_repository_has_fulltext": false
-            },
-            "authorships": [
-                {
-                    "author_position": "first",
-                    "author": {
-                        "id": "https://openalex.org/A5079606822",
-                        "display_name": "Jacques Ferber",
-                        "orcid": null
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": true,
-                    "raw_author_name": "Jacques Ferber",
-                    "raw_affiliation_strings": [
-                        "Syst\u00e8me Multi-agent, Interaction, Langage, Evolution"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Syst\u00e8me Multi-agent, Interaction, Langage, Evolution",
-                            "institution_ids": []
-                        }
-                    ]
-                }
-            ],
-            "institution_assertions": [],
-            "countries_distinct_count": 0,
-            "institutions_distinct_count": 0,
-            "corresponding_author_ids": [
-                "https://openalex.org/A5079606822"
-            ],
-            "corresponding_institution_ids": [],
-            "apc_list": null,
-            "apc_paid": null,
-            "fwci": 37.319,
-            "has_fulltext": false,
-            "cited_by_count": 2699,
-            "citation_normalized_percentile": {
-                "value": 0.99784,
-                "is_in_top_1_percent": true,
-                "is_in_top_10_percent": true
-            },
-            "cited_by_percentile_year": {
-                "min": 99,
-                "max": 100
-            },
-            "biblio": {
-                "volume": null,
-                "issue": null,
-                "first_page": null,
-                "last_page": null
-            },
-            "is_retracted": false,
-            "is_paratext": false,
-            "primary_topic": {
-                "id": "https://openalex.org/T12203",
-                "display_name": "Mobile Agent-Based Network Management",
-                "score": 0.2947,
-                "subfield": {
-                    "id": "https://openalex.org/subfields/1705",
-                    "display_name": "Computer Networks and Communications"
-                },
-                "field": {
-                    "id": "https://openalex.org/fields/17",
-                    "display_name": "Computer Science"
-                },
-                "domain": {
-                    "id": "https://openalex.org/domains/3",
-                    "display_name": "Physical Sciences"
-                }
-            },
-            "topics": [
-                {
-                    "id": "https://openalex.org/T12203",
-                    "display_name": "Mobile Agent-Based Network Management",
-                    "score": 0.2947,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/1705",
-                        "display_name": "Computer Networks and Communications"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/17",
-                        "display_name": "Computer Science"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/3",
-                        "display_name": "Physical Sciences"
-                    }
-                },
-                {
-                    "id": "https://openalex.org/T10456",
-                    "display_name": "Multi-Agent Systems and Negotiation",
-                    "score": 0.2607,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/1702",
-                        "display_name": "Artificial Intelligence"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/17",
-                        "display_name": "Computer Science"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/3",
-                        "display_name": "Physical Sciences"
-                    }
-                },
-                {
-                    "id": "https://openalex.org/T12288",
-                    "display_name": "Optimization and Search Problems",
-                    "score": 0.2559,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/1705",
-                        "display_name": "Computer Networks and Communications"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/17",
-                        "display_name": "Computer Science"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/3",
-                        "display_name": "Physical Sciences"
-                    }
-                }
-            ],
-            "keywords": [],
-            "concepts": [
-                {
-                    "id": "https://openalex.org/C41008148",
-                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
-                    "display_name": "Computer science",
-                    "level": 0,
-                    "score": 0.6063712
-                },
-                {
-                    "id": "https://openalex.org/C9652623",
-                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
-                    "display_name": "Field (mathematics)",
-                    "level": 2,
-                    "score": 0.5912619
-                },
-                {
-                    "id": "https://openalex.org/C26517878",
-                    "wikidata": "https://www.wikidata.org/wiki/Q228039",
-                    "display_name": "Key (lock)",
-                    "level": 2,
-                    "score": 0.5704737
-                },
-                {
-                    "id": "https://openalex.org/C2164484",
-                    "wikidata": "https://www.wikidata.org/wiki/Q5170150",
-                    "display_name": "Core (optical fiber)",
-                    "level": 2,
-                    "score": 0.42682454
-                },
-                {
-                    "id": "https://openalex.org/C2522767166",
-                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
-                    "display_name": "Data science",
-                    "level": 1,
-                    "score": 0.3699813
-                },
-                {
-                    "id": "https://openalex.org/C539667460",
-                    "wikidata": "https://www.wikidata.org/wiki/Q2414942",
-                    "display_name": "Management science",
-                    "level": 1,
-                    "score": 0.35746503
-                },
-                {
-                    "id": "https://openalex.org/C154945302",
-                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
-                    "display_name": "Artificial intelligence",
-                    "level": 1,
-                    "score": 0.32139802
-                },
-                {
-                    "id": "https://openalex.org/C127413603",
-                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
-                    "display_name": "Engineering",
-                    "level": 0,
-                    "score": 0.29004973
-                },
-                {
-                    "id": "https://openalex.org/C38652104",
-                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
-                    "display_name": "Computer security",
-                    "level": 1,
-                    "score": 0.09383279
-                },
-                {
-                    "id": "https://openalex.org/C76155785",
-                    "wikidata": "https://www.wikidata.org/wiki/Q418",
-                    "display_name": "Telecommunications",
-                    "level": 1,
-                    "score": 0.060086638
-                },
-                {
-                    "id": "https://openalex.org/C33923547",
-                    "wikidata": "https://www.wikidata.org/wiki/Q395",
-                    "display_name": "Mathematics",
-                    "level": 0,
-                    "score": 0.0
-                },
-                {
-                    "id": "https://openalex.org/C202444582",
-                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
-                    "display_name": "Pure mathematics",
-                    "level": 1,
-                    "score": 0.0
-                }
-            ],
-            "mesh": [],
-            "locations_count": 1,
-            "locations": [
-                {
-                    "is_oa": false,
-                    "landing_page_url": "https://ci.nii.ac.jp/ncid/BA41830079",
-                    "pdf_url": null,
-                    "source": null,
-                    "license": null,
-                    "license_id": null,
-                    "version": null,
-                    "is_accepted": false,
-                    "is_published": false
-                }
-            ],
-            "best_oa_location": null,
-            "sustainable_development_goals": [
-                {
-                    "id": "https://metadata.un.org/sdg/4",
-                    "score": 0.64,
-                    "display_name": "Quality education"
-                }
-            ],
-            "grants": [],
-            "datasets": [],
-            "versions": [],
-            "referenced_works_count": 0,
-            "referenced_works": [],
-            "related_works": [
-                "https://openalex.org/W2615688110",
-                "https://openalex.org/W2155272711",
-                "https://openalex.org/W2151408086",
-                "https://openalex.org/W2145790759",
-                "https://openalex.org/W2130766754",
-                "https://openalex.org/W2128672031",
-                "https://openalex.org/W2126554879",
-                "https://openalex.org/W2124344619",
-                "https://openalex.org/W2122410182",
-                "https://openalex.org/W2121863487",
-                "https://openalex.org/W2111877087",
-                "https://openalex.org/W2102360367",
-                "https://openalex.org/W2096178388",
-                "https://openalex.org/W2077686680",
-                "https://openalex.org/W1975348168",
-                "https://openalex.org/W1904065432",
-                "https://openalex.org/W1587442892",
-                "https://openalex.org/W1586030051",
-                "https://openalex.org/W1564534945",
-                "https://openalex.org/W1497256448"
-            ],
-            "abstract_inverted_index": {
-                "From": [
-                    0
-                ],
-                "the": [
-                    1,
-                    19,
-                    32,
-                    49,
-                    78,
-                    82,
-                    86,
-                    93
-                ],
-                "Publisher:\r\nWhat": [
-                    2
-                ],
-                "are": [
-                    3,
-                    16
-                ],
-                "multi-agent": [
-                    4,
-                    41
-                ],
-                "systems?": [
-                    5
-                ],
-                "How": [
-                    6
-                ],
-                "do": [
-                    7,
-                    11
-                ],
-                "they": [
-                    8,
-                    12
-                ],
-                "work?": [
-                    9
-                ],
-                "What": [
-                    10
-                ],
-                "do?": [
-                    13
-                ],
-                "If": [
-                    14
-                ],
-                "you": [
-                    15
-                ],
-                "looking": [
-                    17
-                ],
-                "for": [
-                    18,
-                    26,
-                    92
-                ],
-                "answers": [
-                    20
-                ],
-                "to": [
-                    21,
-                    34,
-                    54,
-                    64,
-                    88
-                ],
-                "these": [
-                    22
-                ],
-                "questions,": [
-                    23
-                ],
-                "read": [
-                    24
-                ],
-                "on;": [
-                    25
-                ],
-                "Jacques": [
-                    27
-                ],
-                "Ferber's": [
-                    28
-                ],
-                "authoritative": [
-                    29
-                ],
-                "book": [
-                    30
-                ],
-                "is": [
-                    31
-                ],
-                "first": [
-                    33
-                ],
-                "provide": [
-                    35
-                ],
-                "a": [
-                    36,
-                    66
-                ],
-                "single,": [
-                    37
-                ],
-                "coherent": [
-                    38
-                ],
-                "overview": [
-                    39
-                ],
-                "of": [
-                    40,
-                    70
-                ],
-                "systems.": [
-                    42
-                ],
-                "Introduces": [
-                    43
-                ],
-                "and": [
-                    44,
-                    75,
-                    84
-                ],
-                "defines": [
-                    45
-                ],
-                "key": [
-                    46
-                ],
-                "concepts": [
-                    47
-                ],
-                "throughout": [
-                    48
-                ],
-                "text;": [
-                    50
-                ],
-                "provides": [
-                    51
-                ],
-                "numerous": [
-                    52
-                ],
-                "examples": [
-                    53
-                ],
-                "illustrate": [
-                    55
-                ],
-                "core": [
-                    56
-                ],
-                "principles;": [
-                    57
-                ],
-                "draws": [
-                    58
-                ],
-                "on": [
-                    59,
-                    90
-                ],
-                "contributions": [
-                    60
-                ],
-                "from": [
-                    61
-                ],
-                "different": [
-                    62
-                ],
-                "disciplines": [
-                    63
-                ],
-                "present": [
-                    65
-                ],
-                "holistic,": [
-                    67
-                ],
-                "comprehensive": [
-                    68
-                ],
-                "picture": [
-                    69
-                ],
-                "state-of-the": [
-                    71
-                ],
-                "art": [
-                    72
-                ],
-                "agent": [
-                    73
-                ],
-                "technology;": [
-                    74
-                ],
-                "describes": [
-                    76
-                ],
-                "all": [
-                    77
-                ],
-                "latest": [
-                    79
-                ],
-                "developments": [
-                    80
-                ],
-                "in": [
-                    81
-                ],
-                "field": [
-                    83
-                ],
-                "encourages": [
-                    85
-                ],
-                "reader": [
-                    87
-                ],
-                "reflect": [
-                    89
-                ],
-                "possibilities": [
-                    91
-                ],
-                "future.": [
-                    94
-                ]
-            },
-            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1964839117",
-            "counts_by_year": [
-                {
-                    "year": 2025,
-                    "cited_by_count": 11
-                },
-                {
-                    "year": 2024,
-                    "cited_by_count": 27
-                },
-                {
-                    "year": 2023,
-                    "cited_by_count": 37
-                },
-                {
-                    "year": 2022,
-                    "cited_by_count": 29
-                },
-                {
-                    "year": 2021,
-                    "cited_by_count": 47
-                },
-                {
-                    "year": 2020,
-                    "cited_by_count": 61
-                },
-                {
-                    "year": 2019,
-                    "cited_by_count": 84
-                },
-                {
-                    "year": 2018,
-                    "cited_by_count": 78
-                },
-                {
-                    "year": 2017,
-                    "cited_by_count": 72
-                },
-                {
-                    "year": 2016,
-                    "cited_by_count": 97
-                },
-                {
-                    "year": 2015,
-                    "cited_by_count": 120
-                },
-                {
-                    "year": 2014,
-                    "cited_by_count": 119
-                },
-                {
-                    "year": 2013,
-                    "cited_by_count": 122
-                },
-                {
-                    "year": 2012,
-                    "cited_by_count": 130
-                }
-            ],
-            "updated_date": "2025-09-19T15:47:47.375722",
-            "created_date": "2016-06-24"
-        },
-        {
             "id": "https://openalex.org/W2895763047",
             "doi": "https://doi.org/10.1038/s41551-018-0305-z",
             "title": "Artificial intelligence in healthcare",
             "display_name": "Artificial intelligence in healthcare",
-            "relevance_score": 2620.7463,
+            "relevance_score": 2621.2585,
             "publication_year": 2018,
             "publication_date": "2018-10-05",
             "ids": {
@@ -13860,8 +13856,8 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/9",
                     "score": 0.6,
+                    "id": "https://metadata.un.org/sdg/9",
                     "display_name": "Industry, innovation and infrastructure"
                 }
             ],
@@ -14060,7 +14056,7 @@
             "doi": "https://doi.org/10.1016/j.metabol.2017.01.011",
             "title": "Artificial intelligence in medicine",
             "display_name": "Artificial intelligence in medicine",
-            "relevance_score": 2586.7083,
+            "relevance_score": 2587.349,
             "publication_year": 2017,
             "publication_date": "2017-01-11",
             "ids": {
@@ -14530,8 +14526,8 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/8",
                     "score": 0.56,
+                    "id": "https://metadata.un.org/sdg/8",
                     "display_name": "Decent work and economic growth"
                 }
             ],
@@ -14629,7 +14625,7 @@
             "doi": null,
             "title": "Artificial Intelligence: A Guide to Intelligent Systems",
             "display_name": "Artificial Intelligence: A Guide to Intelligent Systems",
-            "relevance_score": 2576.5764,
+            "relevance_score": 2577.467,
             "publication_year": 2001,
             "publication_date": "2001-01-01",
             "ids": {
@@ -14887,8 +14883,8 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.53,
+                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education"
                 }
             ],
@@ -15424,7 +15420,7 @@
             "doi": "https://doi.org/10.1016/c2013-0-07691-8",
             "title": "The Handbook of Artificial Intelligence",
             "display_name": "The Handbook of Artificial Intelligence",
-            "relevance_score": 2549.926,
+            "relevance_score": 2550.234,
             "publication_year": 1982,
             "publication_date": "1982-01-01",
             "ids": {
@@ -15725,8 +15721,8 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.85,
+                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education"
                 }
             ],
@@ -15811,7 +15807,7 @@
             "doi": null,
             "title": "Artificial Intelligence: A Modern Approach",
             "display_name": "Artificial Intelligence: A Modern Approach",
-            "relevance_score": 2524.8767,
+            "relevance_score": 2527.233,
             "publication_year": 1995,
             "publication_date": "1995-01-01",
             "ids": {
@@ -17438,7 +17434,7 @@
             "doi": "https://doi.org/10.1631/fitee.1700813",
             "title": "Artificial intelligence and statistics",
             "display_name": "Artificial intelligence and statistics",
-            "relevance_score": 2458.2986,
+            "relevance_score": 2459.771,
             "publication_year": 2018,
             "publication_date": "2018-01-01",
             "ids": {

@@ -1,7 +1,7 @@
 {
     "meta": {
-        "count": 1118062,
-        "db_response_time_ms": 450,
+        "count": 1118569,
+        "db_response_time_ms": 328,
         "page": 1,
         "per_page": 200,
         "groups_count": 26
@@ -10,17 +10,17 @@
         {
             "key": "2023",
             "key_display_name": "2023",
-            "count": 173540
+            "count": 173553
         },
         {
             "key": "2024",
             "key_display_name": "2024",
-            "count": 156274
+            "count": 156283
         },
         {
             "key": "2022",
             "key_display_name": "2022",
-            "count": 110907
+            "count": 110908
         },
         {
             "key": "2021",
@@ -30,7 +30,7 @@
         {
             "key": "2025",
             "key_display_name": "2025",
-            "count": 92059
+            "count": 92541
         },
         {
             "key": "2020",
@@ -40,7 +40,7 @@
         {
             "key": "2019",
             "key_display_name": "2019",
-            "count": 63723
+            "count": 63724
         },
         {
             "key": "2018",
@@ -60,7 +60,7 @@
         {
             "key": "2015",
             "key_display_name": "2015",
-            "count": 24886
+            "count": 24887
         },
         {
             "key": "2014",
