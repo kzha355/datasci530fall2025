@@ -33,6 +33,7 @@ panel on the left:
 
 Delete existing table
 -- SQLBook: Code
+-- Active: 1763653531670@@127.0.0.1@5432@postgres
 -- Active: 1710903290079@@127.0.0.1@5432@postgres
 -- If the table already exists we can drop it:
 -- If it doesn't exist nothing happens
@@ -104,6 +105,8 @@ INSERT INTO drivers VALUES (4, 'Thor','Asgard',1000);
 
 INSERT INTO drivers VALUES (4, 'Alejandro','Colombia',5000);
 
+INSERT INTO drivers VALUES (7, 'Kejin', 'China', 6000);
+
 
 
 -- SQLBook: Markup
@@ -157,7 +160,6 @@ SELECT SUM(victories)  AS sum_victories,
        MIN(victories) AS min_victories,
        MAX(victories) AS max_victories
 FROM drivers;
-
 -- SQLBook: Markup
 <font size="5"> 
 
@@ -193,10 +195,8 @@ with more than 60 victories
 -- SQLBook: Code
 -- Write your own code!
 
-SELECT nationality, driver_id FROM drivers
+SELECT driver_id, nationality FROM drivers
 WHERE victories > 60
-
-
 -- SQLBook: Markup
 # <span style="color:darkblue"> III. Groupby + Chaining </span>
 
@@ -249,6 +249,14 @@ FROM drivers
 WHERE (nationality = 'German') OR (nationality = 'British')
 GROUP BY nationality
 HAVING SUM(victories) > 50;
+
+# TO COMPARE
+SELECT SUM(victories)  AS sum_victories,
+       COUNT(*) AS num_rows,
+       AVG(victories) AS mean_victories,
+       MIN(victories) AS min_victories,
+       MAX(victories) AS max_victories
+FROM drivers;
 -- SQLBook: Markup
 <font size = "5">
 
@@ -293,6 +301,7 @@ Left-join data
 - ``` LEFT JOIN``` is followed by the secondary dataset
 
 -- SQLBook: Code
+-- Active: 1763653531670@@127.0.0.1@5432@postgres
 -- Active: 1710903290079@@127.0.0.1@5432@postgres
 
 SELECT * 
